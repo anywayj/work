@@ -32,7 +32,11 @@ DIRECTORY STRUCTURE
       views/              contains view files for the Web application
       web/                contains the entry script and Web resources
 
-
+1) создать пустой репозитарий на гит с readme
+2) перейти в domains в консоле и сделать git clone 'proj name'
+3) git add .
+4) git commit -m 'message' 
+5) git push origin
 
 REQUIREMENTS
 ------------
